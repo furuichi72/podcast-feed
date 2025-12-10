@@ -1,1 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel><atom:link href="https://furuichi72.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/><title>E-Sports Daily Brief</title><description>??5?????E????????????</description><link>https://furuichi72.github.io/podcast-feed/feed.xml</link><language>ja-jp</language><itunes:image href="https://placehold.co/1400x1400/png"/><image><url>https://placehold.co/1400x1400/png</url><title>E-Sports Daily Brief</title><link>https://furuichi72.github.io/podcast-feed/feed.xml</link></image><itunes:author>E-Sports Daily</itunes:author><itunes:owner><itunes:name>Producer</itunes:name><itunes:email>furuichi72@gmail.com</itunes:email></itunes:owner><itunes:category text="News"/><itunes:explicit>false</itunes:explicit><item><title>Welcome to E-Sports Daily</title><description>Official Podcast Feed hosted on GitHub Pages.</description><pubDate>Tue, 09 Dec 2025 11:27:18 +0000</pubDate><enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" length="1500000" type="audio/mpeg"/><guid isPermaLink="false">github_pages_test_1765279638414</guid></item></channel></rss>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Podcast Feed Redirect</title>
+    <meta http-equiv="refresh" content="0;url=https://anchor.fm/s/10ca5faac/podcast/rss">
+    <link rel="canonical" href="https://anchor.fm/s/10ca5faac/podcast/rss">
+  </head>
+  <body>
+    <p>This feed has moved to <a href="https://anchor.fm/s/10ca5faac/podcast/rss">https://anchor.fm/s/10ca5faac/podcast/rss</a>. Please update your podcast catcher.</p>
+  </body>
+</html>
