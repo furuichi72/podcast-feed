@@ -1,11 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
     <title>Redirecting...</title>
     <meta http-equiv="refresh" content="0;url=https://anchor.fm/s/10ca5faac/podcast/rss" />
+    <link rel="canonical" href="https://anchor.fm/s/10ca5faac/podcast/rss" />
   </head>
   <body>
-    Redirecting to the new feed URL...
+    <p>This feed has moved. Please update your aggregator to <a href="https://anchor.fm/s/10ca5faac/podcast/rss">the new URL</a>.</p>
   </body>
 </html>
